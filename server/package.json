@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Yuvaraj Merugu",
+  "author": "Siddhesh Botkewar",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
